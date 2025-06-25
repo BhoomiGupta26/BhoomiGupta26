@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bhoomi!
 
-<!--
-**BhoomiGupta26/BhoomiGupta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate **Python learner** with a growing interest in **Data Science** and **Web Development**.  
+🎯 I love building new projects and solving real-world problems using code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I'm Learning
+- 📊 Data Analytics & Visualization
+- 🐍 Python for Data Science
+- 🌐 Full Stack Web Development
+
+---
+
+## 🏆 Certificate
+- ✔️ **Data Analyst Job Simulation** – Deloitte (via Forage)
+
+---
+
+## 💼 Projects
+
+---
+
+## 🛠️ Tech Stack
+
+
+---
+
+## 📊 GitHub Stats
+
+![Bhoomi's GitHub stats](https://github.com/BhoomiGupta26)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/bhoomi-gupta-81594b250)  
+- 📧 bhoomi@example.com
