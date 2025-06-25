@@ -17,11 +17,9 @@
 
 ---
 
-## 💼 Projects
 
 ---
 
-## 🛠️ Tech Stack
 
 
 ---
@@ -34,4 +32,4 @@
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/bhoomi-gupta-81594b250)  
-- 📧 bhoomi@example.com
+- 📧 bhoomigupta12c@gmail.com
